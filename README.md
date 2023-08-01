@@ -22,6 +22,7 @@ Features
     * pip install -r requirements.txt
     * Start the bot by running the following command:
     * python bot.py
+      
 Usage
 Once the Telegram Message Bot is up and running, you can send messages programmatically using the provided API.
 
