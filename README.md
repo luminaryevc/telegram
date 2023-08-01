@@ -24,7 +24,9 @@ Features
     * python bot.py
       
 Usage
+
 Once the Telegram Message Bot is up and running, you can send messages programmatically using the provided API.
 
 License
+
 The Telegram Message Bot is released under the MIT License.
